@@ -1,1 +1,0 @@
-# mcy.ignorelist.com
